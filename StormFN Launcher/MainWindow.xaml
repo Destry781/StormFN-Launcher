@@ -12,7 +12,7 @@
         ui:WindowHelper.UseModernWindowStyle="True" ResizeMode="CanMinimize">
     <Grid>
         <Button x:Name="LoginButton" Content="Login" HorizontalAlignment="Stretch" Margin="301,0,298,106" VerticalAlignment="Bottom" RenderTransformOrigin="2.438,-6.281" Click="Login_click" Height="32"/>
-        <Label Content="GlossyFN" HorizontalAlignment="Left" Margin="223,106,0,0" VerticalAlignment="Top" FontFamily="/StormFN Launcher;component/#Burbank Big Cd Bk" FontSize="96"/>
+        <Label Content="GlossyFN" HorizontalAlignment="Left" Margin="223,106,0,0" VerticalAlignment="Top" FontFamily="/GlossyFN Launcher;component/#Burbank Big Cd Bk" FontSize="96"/>
         <Label Content="&#xE713;" HorizontalAlignment="Left" Visibility="Hidden" Margin="655,0,0,11.667" FontFamily="Segoe MDL2 Assets" FontSize="48" Height="50" VerticalAlignment="Bottom" RenderTransformOrigin="1.004,0.507" Width="50">
             <Label.RenderTransform>
                 <TransformGroup>
