@@ -1,4 +1,5 @@
-﻿namespace StormFN_Launcher
+﻿namespace Glossy
+     FN_Launcher
 {
     
     
