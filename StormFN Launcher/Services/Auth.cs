@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Threading;
 using RestSharp;
 
-namespace Stormzy_launcher.Epic
+namespace Glossy_launcher.Epic
 {
 	// Token: 0x0200000E RID: 14
 	internal class Auth
