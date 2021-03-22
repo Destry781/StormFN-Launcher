@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.Json.Serialization;
 
-namespace StormFN_Launcher.Epic
+namespace GlossyFN_Launcher.Epic
 {
 	public class devicecode
 	{
