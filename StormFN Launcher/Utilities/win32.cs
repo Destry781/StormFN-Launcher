@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace StormFN_Launcher.Utilities
+namespace GlossyFN_Launcher.Utilities
 {
     public static class Win32
     {
