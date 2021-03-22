@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text.Json.Serialization;
 
-namespace StormFN_Launcher.Services
+namespace GlossyFN_Launcher.Services
 {
 	public class Token
 	{
