@@ -1,7 +1,7 @@
-C:\Users\obb65\source\repos\StormFN Launcher\StormFN Launcher\bin\Debug\StormFN Launcher.exe.config
-C:\Users\obb65\source\repos\StormFN Launcher\StormFN Launcher\bin\Debug\StormFN Launcher.exe
-C:\Users\obb65\source\repos\StormFN Launcher\StormFN Launcher\bin\Debug\StormFN Launcher.pdb
-C:\Users\obb65\source\repos\StormFN Launcher\StormFN Launcher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\obb65\source\repos\GlossyFN Launcher\StormFN Launcher\bin\Debug\ Launcher.exe.config
+C:\Users\obb65\source\repos\GlossyFN Launcher\StormFN Launcher\bin\Debug\StormFN Launcher.exe
+C:\Users\obb65\source\repos\GlossyFN Launcher\StormFN Launcher\bin\Debug\StormFN Launcher.pdb
+C:\Users\obb65\source\repos\GlossyFN Launcher\StormFN Launcher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\obb65\source\repos\StormFN Launcher\StormFN Launcher\bin\Debug\ModernWpf.Controls.dll
 C:\Users\obb65\source\repos\StormFN Launcher\StormFN Launcher\bin\Debug\ModernWpf.dll
 C:\Users\obb65\source\repos\StormFN Launcher\StormFN Launcher\bin\Debug\Newtonsoft.Json.dll
