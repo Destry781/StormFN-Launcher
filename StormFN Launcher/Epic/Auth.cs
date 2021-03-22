@@ -4,7 +4,7 @@ using System.Threading;
 using System.Windows;
 using RestSharp;
 
-namespace StormFN_Launcher.Epic
+namespace GlossyFN_Launcher.Epic
 {
     internal class Auth
     {
