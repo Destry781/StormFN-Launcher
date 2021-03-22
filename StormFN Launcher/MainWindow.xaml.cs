@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
-using StormFN_Launcher.Epic;
+using GlossyFN_Launcher.Epic;
 using System.Threading;
 using System.Collections;
 using System.Net;
