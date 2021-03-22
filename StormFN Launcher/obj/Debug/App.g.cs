@@ -15,7 +15,7 @@ using ModernWpf.Controls.Primitives;
 using ModernWpf.DesignTime;
 using ModernWpf.Markup;
 using ModernWpf.Media.Animation;
-using StormFN_Launcher;
+using GlossyFN_Launcher;
 using System;
 using System.Diagnostics;
 using System.Windows;
@@ -38,7 +38,7 @@ using System.Windows.Shapes;
 using System.Windows.Shell;
 
 
-namespace StormFN_Launcher {
+namespace GlossyFN_Launcher {
     
     
     /// <summary>
@@ -64,7 +64,7 @@ namespace StormFN_Launcher {
             
             #line default
             #line hidden
-            System.Uri resourceLocater = new System.Uri("/StormFN Launcher;component/app.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/GlossyFN Launcher;component/app.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\App.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
@@ -80,7 +80,7 @@ namespace StormFN_Launcher {
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.0.0.0")]
         public static void Main() {
-            StormFN_Launcher.App app = new StormFN_Launcher.App();
+            GlossyFN_Launcher.App app = new GlossyFN_Launcher.App();
             app.InitializeComponent();
             app.Run();
         }
