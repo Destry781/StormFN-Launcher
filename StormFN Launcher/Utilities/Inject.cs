@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace StormFN_Launcher.Utilities
+namespace GlossyFN_Launcher.Utilities
 {
 	internal class Injector
 	{
