@@ -38,7 +38,7 @@ using System.Windows.Shapes;
 using System.Windows.Shell;
 
 
-namespace StormFN_Launcher {
+namespace GlossyFN_Launcher {
     
     
     /// <summary>
@@ -98,7 +98,7 @@ namespace StormFN_Launcher {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/StormFN Launcher;component/mainwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/GlossyFN Launcher;component/mainwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\MainWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
@@ -119,13 +119,13 @@ namespace StormFN_Launcher {
             case 1:
             
             #line 10 "..\..\MainWindow.xaml"
-            ((StormFN_Launcher.MainWindow)(target)).Loaded += new System.Windows.RoutedEventHandler(this.MainWindow_Load);
+            ((GlossyFN_Launcher.MainWindow)(target)).Loaded += new System.Windows.RoutedEventHandler(this.MainWindow_Load);
             
             #line default
             #line hidden
             
             #line 11 "..\..\MainWindow.xaml"
-            ((StormFN_Launcher.MainWindow)(target)).Closed += new System.EventHandler(this.Save_settings);
+            ((GlossyFN_Launcher.MainWindow)(target)).Closed += new System.EventHandler(this.Save_settings);
             
             #line default
             #line hidden
