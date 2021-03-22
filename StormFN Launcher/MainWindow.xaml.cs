@@ -14,9 +14,9 @@ using System.Windows;
 using Microsoft.WindowsAPICodePack.Dialogs;
 using System.ComponentModel;
 using System.Reflection;
-using StormFN_Launcher.Utilities;
+using Glossy_Launcher.Utilities;
 
-namespace StormFN_Launcher
+namespace GlossyFN_Launcher
 {
     public partial class MainWindow : Window
     {
