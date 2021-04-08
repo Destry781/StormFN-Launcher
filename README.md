@@ -1,2 +1,3 @@
 # GlossyFN
-GlossyFN! Made by Snowy And Destry
+SKIDDED SHIT
+GlossyFN! Skidded by Snowy And Destry
